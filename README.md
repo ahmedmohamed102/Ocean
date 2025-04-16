@@ -4,6 +4,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 First, run the development server:
 
+Live Demo: [](https://ocean-w1cu.vercel.app/)
+
 ```bash
 npm run dev
 # or

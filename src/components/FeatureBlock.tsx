@@ -3,6 +3,7 @@ import Image from "next/image";
 import { FC } from "react";
 import Title from "@/components/Title";
 
+// eslint-disable-next-line @typescript-eslint/no-empty-object-type
 interface FeatureBlockProps extends featureBlock {}
 
 const FeatureBlock: FC<FeatureBlockProps> = ({

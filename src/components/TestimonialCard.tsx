@@ -3,6 +3,7 @@ import { Quote } from "lucide-react";
 import Image from "next/image";
 import { FC } from "react";
 
+// eslint-disable-next-line @typescript-eslint/no-empty-object-type
 interface TestimonialCardProps extends Testimonial {}
 
 const TestimonialCard: FC<TestimonialCardProps> = ({

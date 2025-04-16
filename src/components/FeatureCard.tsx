@@ -2,6 +2,7 @@ import { Feature } from "@/types/interfaces";
 import Image from "next/image";
 import { FC } from "react";
 
+// eslint-disable-next-line @typescript-eslint/no-empty-object-type
 interface FeatureCardProps extends Feature {}
 
 const FeatureCard: FC<FeatureCardProps> = ({ title, imageUrl, content }) => {

@@ -29,7 +29,7 @@ export default function RootLayout({
       <body className={`${inte.className} text-lg bg-slate-900 text-slate-400 min-h-screen`}>
         <Navbar />
         {children}
-        <Home />
+
         <Footer />
       </body>
     </html>
